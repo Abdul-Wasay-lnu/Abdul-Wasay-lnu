@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://wasayshaikh05.wixsite.com/electro-mobility](https://wasayshaikh05.wixsite.com/electro-mobility)
 
-- 💬 Ask me about **AC Microgrids,converter design, inverters, BMS, and EV**
+- 💬 Ask me about **EV, converter design, and microgrids,**
 
 - 📫 How to reach me **abdul-wasay.lnu@stonybrook.edu**
 
