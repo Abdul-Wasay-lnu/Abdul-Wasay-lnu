@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdul Wasay</h1>
-<h3 align="center">A passionate power electronics engineer in USA</h3>
+<h3 align="center">A passionate power electronics engineer</h3>
 
-- 🔭 I’m currently working on **Smart Microgrid**
+- 🔭 I love solving engineering challenges in **power electronics, embedded systems, and sustainable energy tech.**
 
-- 👨‍💻 All of my projects are available at [https://wasayshaikh05.wixsite.com/electro-mobility](https://wasayshaikh05.wixsite.com/electro-mobility)
+- 👨‍💻 Some of my work is available here: [https://wasayshaikh05.wixsite.com/electro-mobility](https://wasayshaikh05.wixsite.com/electro-mobility)
 
-- 💬 Ask me about **EV, converter design, and microgrids,**
+- 💬 Ask me about **⚡ Power & Energy Systems, 🔌 Hardware Design, 🚗 EV & Clean Tech, 👨‍💻 Embedded and Control.**
 
 - 📫 How to reach me **abdul-wasay.lnu@stonybrook.edu**
 
